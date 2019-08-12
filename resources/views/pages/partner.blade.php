@@ -61,7 +61,7 @@
 				  }
 
 				  .cls-2, .cls-3 {
-				    fill: #fff;
+					fill: #fff;
 				  }
 
 				  .cls-3 {

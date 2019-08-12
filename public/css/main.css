@@ -3657,7 +3657,7 @@ padding-top: 100px;
  #people{
    
     /*background: linear-gradient(to bottom right,#ffbb07 30%,  #ffb300 30%);*/
-    background: linear-gradient(to bottom right,#fdbc00 30%,  #f2b400 30%);
+    background: linear-gradient(to bottom right,#fdbc00 30%,  #ffc20a 30%);
  }
 }
 
@@ -4450,9 +4450,9 @@ i{
 
   #partner{
     max-width: 100%;
-   background: -webkit-linear-gradient(top left, #b2da69 30%, #a5cd5c 30%);
-   background: -o-linear-gradient(top left, #b2da69 30%, #a5cd5c 30%);
-   background: linear-gradient(to bottom right, #b2da69 30%, #a5cd5c 30%);
+   background: -webkit-linear-gradient(top left, #b2da69 30%, #aad160 30%);
+   background: -o-linear-gradient(top left, #b2da69 30%, #aad160 30%);
+   background: linear-gradient(to bottom right, #b2da69 30%, #aad160 30%);
    }
    
    #partner .content{
@@ -4518,15 +4518,15 @@ i{
     width: 80vw;
     text-align: center;
     margin: 0 auto;
-    margin-top: 10%;
+    margin-top: 17%;
   }
   
   .scaleProjects {
     width: 100%;
     background-color: #a5cd5c;
     height: 35%;
-    margin-top: -.5%;
     padding: 1%;
+    margin-top: 2.5%;
   }
   
   .scaleProjContent {
@@ -4573,7 +4573,7 @@ i{
   color: white;
   line-height: 1.8em;
   font-size: 1.1em;
-  padding: 1%;
+  padding: 2.5%;
   }
   
   .scaleLength {
@@ -4603,7 +4603,7 @@ i{
   }
   
   .tlSVGdiv img {
-    width: 29%;
+    width: 32%;
     margin: 0 auto;
   }
   
@@ -4699,9 +4699,9 @@ i{
 
 #partner{
  max-width: 100%;
-background: -webkit-linear-gradient(top left, #b2da69 30%, #a5cd5c 30%);
-background: -o-linear-gradient(top left, #b2da69 30%, #a5cd5c 30%);
-background: linear-gradient(to bottom right, #b2da69 30%, #a5cd5c 30%);
+background: -webkit-linear-gradient(top left, #b2da69 30%, #add367 30%);
+background: -o-linear-gradient(top left, #b2da69 30%, #add367 30%);
+background: linear-gradient(to bottom right, #b2da69 30%, #add367 30%);
 }
 
 #partner .content{
@@ -4774,8 +4774,8 @@ padding-top: 100px;
   width: 100%;
   background-color: #a5cd5c;
   height: 35%;
-  margin-top: -.5%;
   padding: 1%;
+  margin-top: 2.5%;
 }
 
 .scaleProjContent {
@@ -4787,7 +4787,7 @@ padding-top: 100px;
 }
 
 .scaleSVG {
-  width: 30%;
+  width: 13vw;
   padding: 2%;
   margin: auto;
 }
@@ -4818,11 +4818,11 @@ padding-top: 100px;
 
 .scaleIncludes {
 text-align: left;
-width: 45%;
+width: 50%;
 color: white;
 line-height: 2em;
-font-size: 1.3em;
-padding: 1%;
+font-size: 1.2em;
+padding: 4%;
 }
 
 .scaleLength {
@@ -4852,7 +4852,7 @@ padding: 1%;
 }
 
 .tlSVGdiv img {
-  width: 25%;
+  width: 15vw;
   margin: 0 auto;
 }
 
