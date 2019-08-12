@@ -11,13 +11,14 @@
 
 				<div id="partnerMain">
 					<p class="title">Partner with Reactr on digital Media Projects</p>
+
 				</div>
 
 				<div id="partnerList">
 					<p class="subTitle">What we look for in company partners:</p>
 
 					<ul>
-						<li> <strong>Start-ups to medium-sized companies</strong>, looking to establish their media presence, or to solve technical/digital issues through applied research in developing a digital media tool. </li>
+						<li> <strong>Start-ups to medium-sized companies</strong>, looking to establish their media presence, or to solve technical/digital issues through applied research. </li>
 						<li>Companies looking for <strong>digital media consultation and conceptualization </strong> of a specialized digital media project.</li>
 						<li> <strong>Non-profit companies </strong>looking to establish or rebuild their digital media presence. </li>
 					</ul>
@@ -30,16 +31,19 @@
 
 
 <section id="serviceScales">
-     <div id="scaleTitle">
-        <p class="subTitle">PROJECT DETAILS</p>
-		<p class="copy"></p>
+     <div id="scaleMainTitle">
+        <p class="subTitle">OUR SERVICES</p>
+		<p class="copy"><b>For any inquiries:</b></p>
+			<div id="serviceContact">
+				<div id="offerPartnerButton" class="partnerContact"><a href="/contact">CONTACT US</a></div>
+			</div>
      </div>   
 
 
 	 <div id="largeScale">
 			<div class="scaleTitleDiv">
             	<p class="smallTitle" id="scaleType">Large-scale</p>
-				<p class="copy">Research and development of large-scale digital projects</p>
+				<p class="copy">Research and development of<br> large-scale digital projects</p>
 			</div>
    
     
@@ -93,17 +97,17 @@
         <div class="scaleTimeline">
 			<div class="scaleLength">
 				<p class="smallTitle">Timeline:</p>
-            	<p class="copy">24 weeks, divided into 2 - 12 weeks blocks</p>
+            	<p class="copy"><b>24 weeks, divided into 2 - 12 weeks blocks</b><br>Project starts May/September after meeting and planning stage</p>
 			</div>
 		 	<div class="timelineDiv">	
 				 <div class="tlSVGdiv">
-					<img class="timelinetlSVG" src="images/meetingTimeline.svg" alt="project timeline svg">
-					<img class="timelineSVG" src="images/planningTimeline.svg" alt="project timeline svg">
-					<img class="timelineSVG" src="images/startTimeline.svg" alt="project timeline svg">
+					<img class="timelineSVG" id="TLmeet"  src="images/meetingTimeline.svg" alt="project timeline svg">
+					<img class="timelineSVG" id="TLplan" src="images/planningTimeline.svg" alt="project timeline svg">
+					<img class="timelineSVG" id="TLstart" src="images/startTimeline.svg" alt="project timeline svg">
 				 </div>	
-				<div class="timelineRowText">   
+			<!--	<div class="timelineRowText">   
 					<p class="copy">MEETINGS</p><p class="copy">PLANNING</p></p><p class="copy">PROJECT START</p>
-				</div>	
+				</div>	-->
 		 	</div>
 		</div>
 	 </div>
@@ -111,7 +115,7 @@
 	 <div id="smallScale">
 			<div class="scaleTitleDiv">
             	<p class="smallTitle" id="scaleType">Small-scale</p>
-				<p class="copy">Includes the design and development of an informational website</p>
+				<p class="copy">Includes the design and development<br> of an informational website</p>
 			</div>
    
     
@@ -164,16 +168,16 @@
         <div class="scaleTimeline">
 			<div class="scaleLength">
 				<p class="smallTitle">Timeline:</p>
-            	<p class="copy">12 weeks, with September or January start</p>
+            	<p class="copy"><b>12 weeks</b><br>Project starts January/September after meeting stage</p>
 			</div>
 		 	<div class="timelineDiv">	
 				 <div class="tlSVGdiv">
-					<img class="timelinetlSVG" src="images/meetingTimeline.svg" alt="project timeline svg">
-					<img class="timelineSVG" src="images/startTimeline.svg" alt="project timeline svg">
+					<img class="timelinetlSVG" id="TLmeet2" src="images/meetingTimeline.svg" alt="project timeline svg">
+					<img class="timelineSVG" id="TLstart2" src="images/startTimeline.svg" alt="project timeline svg">
 				 </div>	
-				<div class="timelineRowText">   
+			<!--	<div class="timelineRowText">   
 					<p class="copy">MEETINGS</p><p class="copy">PROJECT START</p>
-				</div>	
+				</div>	-->
 		 	</div>
 		</div>
 	 </div>
@@ -182,7 +186,7 @@
 	 <div id="largeScale">
 			<div class="scaleTitleDiv">
             	<p class="smallTitle" id="scaleType">Media consultation</p>
-				<p class="copy">Provide assistance and consultation in technology and digital media areas.</p>
+				<p class="copy">Provide assistance and consultation in <br>technology and digital media areas.</p>
 			</div>
    
     
@@ -219,9 +223,9 @@
                 <p class="smallTitle">Includes:</p>
                 <p class="copy">
                     <ul>
-                        <li>Database architecture</li>
-                        <li>Custom frameworks and toolkits</li>
-                        <li>Web portals</li>
+                        <li>Assesment reports</li>
+                        <li>Recommendations</li>
+                        <li>May lead into small or large scale <br>project with Reactr</li>
 					</ul></p>
 				</div>
 				</div>
@@ -231,22 +235,23 @@
         <div class="scaleTimeline">
 			<div class="scaleLength">
 				<p class="smallTitle">Timeline:</p>
-            	<p class="copy">24 weeks, divided into 2 - 12 weeks blocks</p>
+            	<p class="copy"><b>2-3 meetings (can be remote)</b><br>Consultation starts 3 weeks after the 1st preliminary meeting</p>
 			</div>
 		 	<div class="timelineDiv">	
 				 <div class="tlSVGdiv">
-					<img class="timelinetlSVG" src="images/meetingTimeline.svg" alt="project timeline svg">
+					<img class="timelinetlSVG" id="TLmeet3" src="images/meetingTimeline.svg" alt="project timeline svg">
 				 </div>	
-				<div class="timelineRowText">   
+		<!--		<div class="timelineRowText">   
 					<p class="copy">MEETINGS</p>
-				</div>	
+				</div>	-->
 		 	</div>
 		</div>
      </div>
 
-
-
 </section>
+
+
+
 		
 
 
@@ -256,5 +261,5 @@
 @endsection
 
 @section('pagescript')
-
+<script src="/js/services.js"></script>
 @endsection

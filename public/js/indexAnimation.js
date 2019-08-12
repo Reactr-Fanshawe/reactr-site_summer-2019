@@ -370,6 +370,7 @@ function countUp() {
 	countUpAlumni();
 }
 
+
 var controller = new ScrollMagic.Controller();
 
 var countUpTrigger = new ScrollMagic.Scene({
