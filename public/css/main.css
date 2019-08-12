@@ -74,7 +74,7 @@ a{
 }
 
 .smallTitle{
- font-size: 3vh;
+ font-size: 1.2em;
  font-weight: 700;
  text-transform: uppercase;
 }
@@ -4445,7 +4445,7 @@ i{
 /*-------------PARTNER PAGE-------------------*/
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 900px) {
 
 
   #partner{
@@ -4485,9 +4485,217 @@ i{
     font-size: 18px;
     padding: 10px 0;
    }
+
+
+   #serviceScales {
+    margin-top: 7%;
+    margin-bottom: 10%;
+  }
+  
+  #scaleType {
+    color: #9fca4f;
+    text-align: center;
+    font-size: 1.6em;
+    padding: 1vh;
+  }
+  
+  #scaleMainTitle {
+    text-align: center;
+    margin-bottom: -3%;
+  }
+  
+  #scaleMainTitle .subTitle {
+   font-size: 2em;
+  }
+  
+  #serviceContact {
+    margin: -2.5%;
+  }
+  
+  .scaleTitleDiv {
+    border: 2px solid #98c24a;
+    box-shadow: 0 10px 10px rgba(51, 68, 51, 0.055);
+    width: 80vw;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10%;
+  }
+  
+  .scaleProjects {
+    width: 100%;
+    background-color: #a5cd5c;
+    height: 35%;
+    margin-top: -.5%;
+    padding: 1%;
+  }
+  
+  .scaleProjContent {
+    display: flex;
+    flex-direction: row;
+    width: 90vw;
+    margin: 0 auto;
+    justify-content: space-evenly;
+  }
+  
+  .scaleSVG {
+    width: 25%;
+    padding: 2%;
+    margin: auto;
+  }
+  
+  .scaleTitleDiv p {
+   padding-left: 2%;
+   padding-right: 2%;
+   padding-bottom: 4%;
+  }
+  
+  
+  
+  #scaleType {
+    font-weight: 1vw;
+    padding: 1.5vw;
+  }
+  
+  
+  .scaleTimeline {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+    margin-top: 2%;
+  }
+  
+  
+  .scaleIncludes {
+  text-align: left;
+  width: 50%;
+  color: white;
+  line-height: 1.8em;
+  font-size: 1.1em;
+  padding: 1%;
+  }
+  
+  .scaleLength {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  
+  .timelineDiv {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  .timelineDiv {
+    font-weight: bold;
+  }
+  
+  
+  .tlSVGdiv {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding-top: 4vh;
+    margin: 0 auto;
+  }
+  
+  .tlSVGdiv img {
+    width: 29%;
+    margin: 0 auto;
+  }
+  
+  #TLmeet {
+    transition: all 1s ease-in;
+    opacity: 0;
+  }
+  
+  #TLmeet.fade-in {
+    opacity: 1;
+  }
+  
+  #TLplan {
+    transition: all 1s ease-in;
+    opacity: 0;
+  }
+  
+  #TLplan.fade-in {
+    opacity: 1;
+    transition-delay: .5s;
+  }
+  
+  #TLstart {
+    transition: all 1s ease-in;
+    opacity: 0;
+  }
+  
+  #TLstart.fade-in {
+    opacity: 1;
+    transition-delay: 1s;
+  }
+  
+  #TLmeet2 {
+    transition: all 1s ease-in;
+    opacity: 0;
+  }
+  
+  #TLmeet2.fade-in {
+    opacity: 1;
+  }
+  
+  #TLstart2 {
+    transition: all 1s ease-in;
+    opacity: 0;
+  }
+  
+  #TLstart2.fade-in {
+    opacity: 1;
+    transition-delay: .5s;
+  }
+  
+  #TLmeet3 {
+    transition: all 1s ease-in;
+    opacity: 0;
+  }
+  
+  #TLmeet3.fade-in {
+    opacity: 1;
+  }
+  
+   
+  .partnerContact {
+   width: 200px;
+   height: 40px;
+   padding-top: 5px;
+   background-color: #98c24a;
+   border: none;
+   border-radius: 100px;
+   text-align: center;
+   letter-spacing: 0.1em;
+   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+   cursor: pointer;
+  }
+  
+  .partnerContact a{
+    font-weight: bold;
+    background-color: #98c24a;
+   }
+  
+  #offerPartnerButton {
+  margin: 50px auto;
+  background-color: #98c24a;
+  transition: all .6s ease-in-out;
+  }
+  
+  #offerPartnerButton:hover {
+    transform: scale(1.1);
+  }
+  
   }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 900px) {
 
 #partner{
  max-width: 100%;
@@ -4529,43 +4737,59 @@ padding-top: 100px;
 
 
 #serviceScales {
-  margin-top: 10vh;
+  margin-top: 7%;
+  margin-bottom: 10%;
 }
 
 #scaleType {
   color: #9fca4f;
   text-align: center;
-  font-size: 3vh;
+  font-size: 1.6em;
   padding: 1vh;
 }
 
+#scaleMainTitle {
+  text-align: center;
+  margin-bottom: -3%;
+}
+
+#scaleMainTitle .subTitle {
+ font-size: 2em;
+}
+
+#serviceContact {
+  margin: -2.5%;
+}
+
 .scaleTitleDiv {
-  border: 2px solid #9fca4f;
-    box-shadow: 0 10px 10px rgba(51, 68, 51, 0.055);
-  width: 30vw;
+  border: 2px solid #98c24a;
+  box-shadow: 0 10px 10px rgba(51, 68, 51, 0.055);
+  width: 40vw;
   text-align: center;
   margin: 0 auto;
-  margin-top: 15vh;
+  margin-top: 10%;
 }
 
 .scaleProjects {
   width: 100%;
   background-color: #a5cd5c;
-  height: 300px;
+  height: 35%;
   margin-top: -.5%;
+  padding: 1%;
 }
 
 .scaleProjContent {
   display: flex;
   flex-direction: row;
-  width: 50%;
+  width: 50vw;
   margin: 0 auto;
-  justify-content: space-around;
-  padding-top: 4%;
+  justify-content: space-evenly;
 }
 
 .scaleSVG {
-  width: 25%;
+  width: 30%;
+  padding: 2%;
+  margin: auto;
 }
 
 .scaleTitleDiv p {
@@ -4593,12 +4817,12 @@ padding-top: 100px;
 
 
 .scaleIncludes {
-flex-direction: row;
 text-align: left;
-width: 50%;
+width: 45%;
 color: white;
-line-height: 5vh;
-font-size: 2.5vh;
+line-height: 2em;
+font-size: 1.3em;
+padding: 1%;
 }
 
 .scaleLength {
@@ -4618,14 +4842,6 @@ font-size: 2.5vh;
   font-weight: bold;
 }
 
-.timelineRowText {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  width: 100%;
-  margin: 0 auto;
-  padding: .5%;
-}
 
 .tlSVGdiv {
   display: flex;
@@ -4638,6 +4854,92 @@ font-size: 2.5vh;
 .tlSVGdiv img {
   width: 25%;
   margin: 0 auto;
+}
+
+#TLmeet {
+  transition: all 1s ease-in;
+  opacity: 0;
+}
+
+#TLmeet.fade-in {
+  opacity: 1;
+}
+
+#TLplan {
+  transition: all 1s ease-in;
+  opacity: 0;
+}
+
+#TLplan.fade-in {
+  opacity: 1;
+  transition-delay: .5s;
+}
+
+#TLstart {
+  transition: all 1s ease-in;
+  opacity: 0;
+}
+
+#TLstart.fade-in {
+  opacity: 1;
+  transition-delay: 1s;
+}
+
+#TLmeet2 {
+  transition: all 1s ease-in;
+  opacity: 0;
+}
+
+#TLmeet2.fade-in {
+  opacity: 1;
+}
+
+#TLstart2 {
+  transition: all 1s ease-in;
+  opacity: 0;
+}
+
+#TLstart2.fade-in {
+  opacity: 1;
+  transition-delay: .5s;
+}
+
+#TLmeet3 {
+  transition: all 1s ease-in;
+  opacity: 0;
+}
+
+#TLmeet3.fade-in {
+  opacity: 1;
+}
+
+ 
+.partnerContact {
+ width: 200px;
+ height: 40px;
+ padding-top: 5px;
+ background-color: #98c24a;
+ border: none;
+ border-radius: 100px;
+ text-align: center;
+ letter-spacing: 0.1em;
+ box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+ cursor: pointer;
+}
+
+.partnerContact a{
+  font-weight: bold;
+  background-color: #98c24a;
+ }
+
+#offerPartnerButton {
+margin: 50px auto;
+background-color: #98c24a;
+transition: all .6s ease-in-out;
+}
+
+#offerPartnerButton:hover {
+  transform: scale(1.1);
 }
 
 }

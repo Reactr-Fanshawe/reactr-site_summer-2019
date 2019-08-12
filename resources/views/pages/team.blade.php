@@ -33,7 +33,7 @@
 				<div class="content">
 					<p class="subTitle">working at reactr</p>
 					<p class="copy">We collaborate with companies in London and Southern Ontario to bring <span>real, technology-based projects and team experiences</span> to students in our programs. Reactr alumni have identified these projects as being one of, if not the most significant learning experiences in their time at college.</p>
-					<a href="#jobContainer" class="smallTitle">view careers</a>
+					<a href="/careers" class="smallTitle">view careers</a>
 				</div>
 
 			<div id="reactrVideo">		
