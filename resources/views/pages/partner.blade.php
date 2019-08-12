@@ -18,7 +18,7 @@
 					<p class="subTitle">What we look for in company partners:</p>
 
 					<ul>
-						<li> <strong>Start-ups to medium-sized companies</strong>, looking to establish their media presence, or to solve technical/digital issues through applied research in developing a digital media tool. </li>
+						<li> <strong>Start-ups to medium-sized companies</strong>, looking to establish their media presence, or to solve technical/digital issues through applied research. </li>
 						<li>Companies looking for <strong>digital media consultation and conceptualization </strong> of a specialized digital media project.</li>
 						<li> <strong>Non-profit companies </strong>looking to establish or rebuild their digital media presence. </li>
 					</ul>
