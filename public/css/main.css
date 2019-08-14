@@ -4762,8 +4762,7 @@ padding-top: 100px;
 }
 
 .scaleTitleDiv {
-  border: 2px solid #98c24a;
-  box-shadow: 0 10px 10px rgba(51, 68, 51, 0.055);
+
   width: 40vw;
   text-align: center;
   margin: 0 auto;
@@ -4775,7 +4774,7 @@ padding-top: 100px;
   background-color: #a5cd5c;
   height: 35%;
   padding: 1%;
-  margin-top: 2.5%;
+  margin-top: .5%;
 }
 
 .scaleProjContent {
