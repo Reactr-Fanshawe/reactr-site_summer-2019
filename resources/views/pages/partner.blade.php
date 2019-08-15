@@ -33,7 +33,7 @@
 <section id="serviceScales">
      <div id="scaleMainTitle">
         <p class="subTitle">OUR SERVICES</p>
-		<p class="copy"><b>For any inquiries:</b></p>
+		<p class="copy">For client inquiries:</p>
 			<div id="serviceContact">
 				<div id="offerPartnerButton" class="partnerContact"><a href="/contact">CONTACT US</a></div>
 			</div>
