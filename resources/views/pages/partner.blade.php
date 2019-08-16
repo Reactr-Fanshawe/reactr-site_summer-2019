@@ -41,13 +41,15 @@
 
 
 	 <div id="largeScale">
+
+	 <div class="scaleProjects">
 			<div class="scaleTitleDiv">
             	<p class="smallTitle" id="scaleType">Large-scale</p>
 				<p class="copy">Research and development of<br> large-scale digital projects</p>
 			</div>
    
     
-            <div class="scaleProjects">
+           
 				<div class="scaleProjContent">
 				<div class="scaleSVG">
 				<svg id="Layer_3" data-name="Layer 3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61 54.5">
@@ -113,13 +115,13 @@
 	 </div>
 	 
 	 <div id="smallScale">
+
+	 <div class="scaleProjects">
 			<div class="scaleTitleDiv">
             	<p class="smallTitle" id="scaleType">Small-scale</p>
-				<p class="copy">Includes the design and development<br> of an informational website</p>
+				<p class="copy">Design and development<br> of an informational website</p>
 			</div>
    
-    
-            <div class="scaleProjects">
 				<div class="scaleProjContent">
 				<div class="scaleSVG">
 				<svg id="Layer_3" data-name="Layer 3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61 54.5">
@@ -184,13 +186,13 @@
 
 
 	 <div id="largeScale">
+
+	 <div class="scaleProjects">
 			<div class="scaleTitleDiv">
             	<p class="smallTitle" id="scaleType">Media consultation</p>
-				<p class="copy">Provide assistance and consultation in <br>technology and digital media areas.</p>
+				<p class="copy">Assistance and consultation in <br>technology and digital media areas.</p>
 			</div>
    
-    
-            <div class="scaleProjects">
 				<div class="scaleProjContent">
 				<div class="scaleSVG">
 				<svg id="Layer_4" data-name="Layer 4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 73.25 55.25">

@@ -106,7 +106,7 @@
 		<p class="subTitle">WHAT WE OFFER</p>
 		<p class="copy">Each Reactr project is developed by a team of students dedicated to that project, </br> supervised and supported by Fanshawe faculty and staff.</p>
 		<p class="copy">The work that we undertake falls into these main categories:</p>
-		<div id="offerButton" class="hireUs button hvr-grow-shadow"><a href="/contact">WORK WITH US</a></div>
+		<div id="offerButton" class="hireUs button hvr-grow-shadow"><a href="/partner">WORK WITH US</a></div>
 	</div>
 
 	<div class="content">
