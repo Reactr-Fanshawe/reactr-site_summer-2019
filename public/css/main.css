@@ -3132,7 +3132,7 @@ section:nth-child(6n+7) .projectInfo a{
 
 
 #teamHero{
-  background: linear-gradient(to bottom right, #eb8e30 30%, #E98119 30%);
+  background: linear-gradient(to bottom right, #eb8e30 30%, #ee8925 30%);
   max-width: 100%;
   margin-top: 80px;
   padding-bottom: 80px;
@@ -3227,7 +3227,7 @@ section:nth-child(6n+7) .projectInfo a{
 
  #teamHero{
    margin-bottom: -100px;
-   background: linear-gradient(to bottom right, #eb8e30 30%, #E98119 30%);
+   background: linear-gradient(to bottom right, #eb8e30 30%, #ee8925 30%);
  }
 
  #teamHeroImage{
@@ -3368,7 +3368,7 @@ section:nth-child(6n+7) .projectInfo a{
 }
 
 #workingAtReactr .content{
- max-width: 500px;
+ max-width: 550px;
  margin: auto;
  padding-left: 80px;
  padding-right: 80px;
@@ -3404,9 +3404,9 @@ section:nth-child(6n+7) .projectInfo a{
 
 #reactrVideo {
   width: 55vw;
-margin: 2% auto;
-margin-top: 4vh;
-height: 28vw;
+  margin: 2% auto;
+  margin-top: 2.5vh;
+  height: 28vw;
 }
 
 @media screen and (min-width: 700px) {
@@ -3423,7 +3423,7 @@ height: 28vw;
 }
 
 
-@media screen and (min-width: 1100px){
+@media screen and (min-width: 1250px){
 
 #workingAtReactr {
   display: flex;
@@ -3442,7 +3442,7 @@ height: 28vw;
 #workingAtReactr .content {
   width: 45%;
   margin: 2% auto;
-  margin-left: 2%;
+  margin-left: 4%;
 }
  
 #workingAtReactr .subTitle {
@@ -3484,7 +3484,7 @@ height: 28vw;
 /*our team*/
 #ourTeam{
  max-width: 100%;
- background: linear-gradient(to bottom right, #01bec0 10%, #01bec0 30%);
+ background: linear-gradient(to bottom right, #01bec0 40%, #04b5b8 30%);
  padding-top: 90px;
  margin-top: 25px;
 }
@@ -3619,7 +3619,7 @@ height: 28vw;
 /*looking for people who*/
 #people{
  max-width: 100%;
-   background: linear-gradient(to bottom right,#ffbb07 30%,  #ffb300 30%);
+ background: linear-gradient(to bottom right, #01bec0 40%, #04b5b8 30%);
 }
 
 #people .content{
@@ -3657,8 +3657,7 @@ padding-top: 100px;
 @media screen and (min-width: 720px){
 
  #people{
-   
-    background: linear-gradient(to bottom right,#ffbb07 30%,  #ffb300 30%);
+  background: linear-gradient(to bottom right, #01bec0 40%, #04b5b8 30%);
  }
 }
 
@@ -3758,7 +3757,7 @@ padding-top: 100px;
 }
 
 #jobs .subTitle{
- color: #ffb300;
+ color: #04b5b8;
  margin-bottom: 25px;
 }
 
@@ -3773,7 +3772,7 @@ padding-top: 100px;
 }
 
 .job span{
- color:#ffb300;
+ color:#04b5b8;
  margin-left: -40px;
  margin-right: 20px;
 }
@@ -4114,7 +4113,7 @@ i{
 
 #aliminiWords{
   background-color: #fff;
-  border: 2px solid #ffb300;
+  border: 2px solid #04b5b8;
   max-width: 100%;
   /*padding:10% 10%;*/
   display: flex;
@@ -4135,7 +4134,7 @@ i{
 }
 
 #aliminiWords .subTitle, .teamName{
- color: #ffb300;
+ color: #04b5b8;
  margin-bottom: 30px;
 }
 
@@ -4160,11 +4159,11 @@ i{
 }
 
 #teamBullets .dot:hover{
- background-color: #ffb300;
+ background-color: #04b5b8;
 }
 
 #teamBullets .active{
- background-color: #ffb300;
+ background-color: #04b5b8;
 }
 
 @media screen and (max-width: 600px){
@@ -4495,7 +4494,7 @@ i{
   }
   
   #scaleType {
-    color: #9fca4f;
+    color: white;
     text-align: center;
     font-size: 1.6em;
     padding: 1vh;
@@ -4519,7 +4518,6 @@ i{
     width: 80vw;
     text-align: center;
     margin: 0 auto;
-    margin-top: 17%;
   }
   
   .scaleProjects {
@@ -4527,7 +4525,9 @@ i{
     background-color: #a5cd5c;
     height: 35%;
     padding: 1%;
-    margin-top: .5%;
+    margin-top: 10%;
+    padding-top: 3%;
+    padding-bottom: 4%;
   }
   
   .scaleProjContent {
@@ -4548,6 +4548,7 @@ i{
    padding-left: 2%;
    padding-right: 2%;
    padding-bottom: 4%;
+   color: white;
   }
   
   
@@ -4700,9 +4701,10 @@ i{
 
 #partner{
  max-width: 100%;
-background: -webkit-linear-gradient(top left, #b2da69 30%, #add367 30%);
-background: -o-linear-gradient(top left, #b2da69 30%, #add367 30%);
-background: linear-gradient(to bottom right, #b2da69 30%, #add367 30%);
+ background: linear-gradient(to bottom right, #b2da69 30%,  #a9d15f 30%);
+background: -webkit-linear-gradient(to bottom right, #b2da69 30%,  #a9d15f 30%);
+background: -o-linear-gradient(to bottom right, #b2da69 30%,  #a9d15f 30%);
+background: linear-gradient(to bottom right, #b2da69 30%,  #a9d15f 30%);
 }
 
 #partner .content{
@@ -4743,7 +4745,7 @@ padding-top: 100px;
 }
 
 #scaleType {
-  color: #9fca4f;
+  color: white;
   text-align: center;
   font-size: 1.6em;
   padding: 1vh;
@@ -4767,11 +4769,9 @@ padding-top: 100px;
 }
 
 .scaleTitleDiv {
-
   width: 40vw;
   text-align: center;
   margin: 0 auto;
-  margin-top: 10%;
 }
 
 .scaleProjects {
@@ -4779,7 +4779,9 @@ padding-top: 100px;
   background-color: #a5cd5c;
   height: 35%;
   padding: 1%;
-  margin-top: .5%;
+  margin-top: 10%;
+  padding-top: 2%;
+  padding-bottom: 3%;
 }
 
 .scaleProjContent {
@@ -4800,6 +4802,7 @@ padding-top: 100px;
  padding-left: 2%;
  padding-right: 2%;
  padding-bottom: 4%;
+ color: white;
 }
 
 
@@ -4951,8 +4954,10 @@ transition: all .6s ease-in-out;
 @media screen and (min-width: 720px){
 
  #partner{
-   
-    background: linear-gradient(to bottom right, #b2da69 30%,  #a5cd5c 30%);
+  background: linear-gradient(to bottom right, #b2da69 30%,  #a9d15f 30%);
+  background: -webkit-linear-gradient(to bottom right, #b2da69 30%,  #a9d15f 30%);
+  background: -o-linear-gradient(to bottom right, #b2da69 30%,  #a9d15f 30%);
+  background: linear-gradient(to bottom right, #b2da69 30%,  #a9d15f 30%);
  }
 }
 

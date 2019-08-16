@@ -19,7 +19,7 @@
             <li><a href="/team" @if (isset($activeAbout))class="{{$activeAbout}}" @endif>About</a></li>
 			<li><a href="/archive" @if (isset($activeProjects))class="{{$activeProjects}}" @endif>Projects</a></li>
 			<li><a href="/careers" @if (isset($activeCareers))class="{{$activeCareers}}" @endif>Careers</a></li>
-			<li><a href="/partner" @if (isset($activePartner))class="{{$activePartner}}" @endif">Partner</a></li>
+			<li><a href="/partner" @if (isset($activePartner))class="{{$activePartner}}" @endif">Services</a></li>
 			<li><a href="/contact" @if (isset($activeContact))class="{{$activeContact}}" @endif>Contact</a></li>
 			</nav>
 

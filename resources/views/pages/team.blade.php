@@ -90,7 +90,7 @@
 					</div>
 
 
-					<div class="member" id="member4">
+					<!--<div class="member" id="member4">
 						<img src="/images/natalia.png" alt="Natalia Aguillon" class="memberPhoto">
 						<p class="smallTitle">Natalia Aguillon</p>
 						<p>Project Manager</p>
@@ -99,7 +99,7 @@
 							<li><a href="mailto:n_aguillon@fanshawec.ca"><img src="/images/at.svg" alt="@ something" class="teamIcon" width="21"></a></li>
 						</ul>
 
-					</div>
+					</div>-->
 
 				
 				</div>
