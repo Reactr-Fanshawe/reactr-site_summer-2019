@@ -4445,7 +4445,6 @@ i{
 
 /*-------------PARTNER PAGE-------------------*/
 
-
 @media screen and (max-width: 900px) {
 
 
@@ -4532,8 +4531,8 @@ i{
   
   .scaleProjContent {
     display: flex;
-    flex-direction: row;
-    width: 90vw;
+    flex-direction: column;
+    width: 95vw;
     margin: 0 auto;
     justify-content: space-evenly;
   }
@@ -4563,7 +4562,7 @@ i{
     margin: 0 auto;
     display: flex;
     flex-direction: column;
-    width: 100%;
+    width: 95%;
     text-align: center;
     margin-top: 2%;
   }
@@ -4575,12 +4574,19 @@ i{
   color: white;
   line-height: 1.8em;
   font-size: 1.1em;
-  padding: 2.5%;
+  padding: 3%;
+  margin: 0 auto;
+   
+  }
+
+  .scaleIncludes .smallTitle{
+    text-align: center;
   }
   
   .scaleLength {
-    width: 80%;
+    width: 100%;
     margin: 0 auto;
+    padding-top: 3%;
   }
   
   
@@ -4589,6 +4595,7 @@ i{
     flex-direction: column;
     width: 100%;
     margin: 0 auto;
+    padding-bottom: 10%;
   }
   
   .timelineDiv {
@@ -4820,6 +4827,7 @@ padding-top: 100px;
   width: 70%;
   text-align: center;
   margin-top: 2%;
+
 }
 
 
@@ -4833,7 +4841,7 @@ padding: 4%;
 }
 
 .scaleLength {
-  width: 50%;
+  width: 90%;
   margin: 0 auto;
 }
 
