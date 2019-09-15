@@ -57,7 +57,7 @@ class FormController extends Controller
       // });
 
       //create new mail and send it with input data
-      Mail::to('n_aguillon@fanshawec.ca')->send(new contactMail($data));
+      Mail::to('')->send(new contactMail($data));
 
       return redirect('/#contactUs')->with('status', 'Email has been sent!');
     }

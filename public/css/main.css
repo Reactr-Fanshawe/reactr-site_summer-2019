@@ -7,11 +7,6 @@ The @supports query is checking for CSS Grid support- basically only IE does not
 
 
 
-
-
-
-
-
 /*GENERAL*/
 
 *{
@@ -3058,7 +3053,7 @@ section:nth-child(6n+7) .projectInfo a{
  max-width: 1366px;
  margin: auto;
  display: grid;
- grid-template-columns: 47pz repeat(12, 1fr) 47px;
+ grid-template-columns: 47px repeat(12, 1fr) 47px;
 }
 
 #clientTestimonials .subTitle{
